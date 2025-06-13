@@ -1,0 +1,1627 @@
+[
+  {
+    "instruction": "Who has rights, starboard or port?",
+    "input": "When two boats meet",
+    "output": "When boats are on opposite tacks, the starboard-tack boat has right of way. The port-tack boat shall keep clear of the starboard-tack boat. (RRS 10)"
+  },
+  {
+    "instruction": "What should I do if two boats are approaching on port and starboard tack?",
+    "input": "I'm on port tack approaching the windward mark.",
+    "output": "As the port tack boat, you must keep clear of the starboard tack boat. When boats are on opposite tacks, the port-tack boat shall keep clear of the starboard-tack boat (RRS 10). You should either tack or bear away early enough to keep clear."
+  },
+  {
+    "instruction": "What is the definition of 'keep clear'?",
+    "input": "",
+    "output": "A boat keeps clear of a right-of-way boat if the right-of-way boat can sail her course with no need to take avoiding action and with no less than arm’s-length clearance. (RRS 11) "
+  },
+  {
+    "instruction": "Define 'room to tack' and explain when a competitor may hail for it.",
+    "input": "",
+    "output": "“Room to tack” is the space a boat needs to tack safely without immediately making contact. A competitor may hail “Room to tack” only when: 1) she is approaching an obstruction and will soon need to make a substantial course change to avoid it safely, and 2) she is sailing close-hauled or above. (RRS 20.1) "
+  },
+  {
+    "instruction": "Explain the right-of-way rule when boats are on opposite tacks.",
+    "input": "",
+    "output": "When boats are on opposite tacks, the port-tack boat shall keep clear of the starboard-tack boat. (RRS 10) "
+  },
+  {
+    "instruction": "In a port/starboard situation approaching a windward mark, who must give room?",
+    "input": "I'm on port tack approaching the windward mark. A starboard tack boat is also approaching the mark on a collision course.",
+    "output": "You are on port tack and must keep clear of the starboard-tack boat. When boats are on opposite tacks, the port-tack boat shall keep clear of the starboard-tack boat. (RRS 10) Mark-Room rules (RRS 18) do not apply between opposite-tack boats on a beat to windward."
+  },
+  {
+    "instruction": "When must a protest flag be displayed by a protesting boat?",
+    "input": "",
+    "output": "A protesting boat shall hail “Protest” and conspicuously display a red flag at the first reasonable opportunity after the incident if her hull length is longer than 6 m. (RRS 60.2(a)(1))"
+  },
+  {
+    "instruction": "Describe the changes in signaling for protests in the 2025-2028 rules.",
+    "input": "",
+    "output": "Under RRS 60.2, if the protestee is beyond hailing distance or the incident was an error in sailing the course, the only requirement is to inform the protestee at the first reasonable opportunity—displaying a flag or hail is not required. (RRS 60.2(b))"
+  },
+  {
+    "instruction": "What is the new timing requirement for delivering a protest under RRS 2025?",
+    "input": "",
+    "output": "A protest must be delivered in writing within two hours after the last boat in the race finishes, or two hours after the relevant information is available, whichever is later, unless the sailing instructions specify otherwise. (RRS 60.3(b))"
+  },
+  {
+    "instruction": "Explain the concept of 'mark-room'.",
+    "input": "",
+    "output": "Mark-Room is the space a boat needs to sail her proper course to round or pass the mark on the required side and to leave it astern. (RRS 18.1)"
+  },
+  {
+    "instruction": "How does Rule 18.2 allocate mark-room between overlapped boats entering the zone?",
+    "input": "",
+    "output": "When the first of two boats reaches the zone: if they are overlapped, the outside boat at that moment shall give the inside boat mark-room; if not overlapped, the boat clear astern at that moment shall give mark-room. (RRS 18.2(a))"
+  },
+  {
+    "instruction": "What happens if a boat is forced to break a rule of Part 2 while sailing within her mark-room?",
+    "input": "",
+    "output": "A boat sailing within the mark-room to which she is entitled is exonerated for breaking a rule of Section A of Part 2, rule 15, 16, or 31 if the incident was caused by the other boat’s failure to give her mark-room. (RRS 43.1(b))"
+  },
+  {
+    "instruction": "Define 'proper course' and its implications.",
+    "input": "",
+    "output": "Proper Course is the course a boat would choose to sail the course as quickly as possible in the absence of other boats. A boat is not sailing her proper course when taking a penalty. (RRS 2 defn; RRS 2)"
+  },
+  {
+    "instruction": "Explain the difference between an obstruction and a continuing obstruction.",
+    "input": "",
+    "output": "An obstruction is an object a boat cannot pass without changing course substantially. A continuing obstruction is one that the boat nearer would pass alongside for at least three of her hull lengths. (RRS 19 defns)"
+  },
+  {
+    "instruction": "What are the requirements for taking a Two-Turns Penalty?",
+    "input": "",
+    "output": "After getting well clear of other boats, a boat takes a Two-Turns Penalty by promptly making two full turns in the same direction, each including one tack and one gybe. At the finish, she must be completely on the course side before finishing. (RRS 44.2)"
+  },
+  {
+    "instruction": "When is a One-Turn Penalty permitted instead of Two-Turns?",
+    "input": "",
+    "output": "A boat may take a One-Turn Penalty when she may have broken rule 31 (touching a mark). Alternatively, the notice of race may specify a Scoring Penalty in place of One-Turn. (RRS 44.1)"
+  },
+  {
+    "instruction": "How does a Scoring Penalty modify a boat’s score?",
+    "input": "",
+    "output": "A boat takes a Scoring Penalty by displaying a yellow flag and informing the race committee; her score is worsened by the number of points stated in the sailing instructions (20% of DNF if unspecified), without changing others’ scores. (RRS 44.3)"
+  },
+  {
+    "instruction": "What actions are permitted under Rule 42 exceptions?",
+    "input": "",
+    "output": "A boat may roll to facilitate steering; exaggerate rolling during a tack/gybe without extra speed; pump once per wave when planing; scull when stationary above close-hauled; scull to initiate foiling; reduce speed by moving the helm. (RRS 42.3)"
+  },
+  {
+    "instruction": "Define 'finish' and conditions that invalidate a finish.",
+    "input": "",
+    "output": "A boat finishes when any part of her hull crosses the finishing line from the course side after her starting signal. She has not finished if she takes a penalty, corrects a course error, or continues racing beyond the line until she clears. (RRS 28.1)"
+  },
+  {
+    "instruction": "What is the general recall signal and procedure?",
+    "input": "",
+    "output": "General recall is signalled by First Substitute flag with two sounds. The warning signal for the new start is made one minute after First Substitute is removed. (RRS 29.2)"
+  },
+  {
+    "instruction": "Explain the requirements for a boat to hail and display a protest if the other boat is beyond hailing distance.",
+    "input": "",
+    "output": "If the protestee is beyond hailing distance at the incident time, the protestor need only inform the protestee of her intention at the first reasonable opportunity; neither hail nor flag display is required. (RRS 60.2(b)(1))"
+  },
+  {
+    "instruction": "How has Rule 76.1 changed regarding exclusion of boats?",
+    "input": "",
+    "output": "RRS 76.1 now requires the organizing authority to reject or cancel an entry before the first race after receipt of entry and to state a proper reason, provided in writing if requested. (RRS 76.1)"
+  },
+  {
+    "instruction": "What is the penalty for breaking rule 30.2 in a windsurfing fleet race?",
+    "input": "",
+    "output": "In windsurfing fleet racing, breaking rule 30.2 (the Z-flag 20% Scoring Penalty) incurs a 20% Scoring Penalty applied without a hearing, unless the heat is abandoned or postponed. (Windsurfing Appendix B)"
+  },
+  {
+    "instruction": "Describe the changes to protest contents requirements in 2025 rules.",
+    "input": "",
+    "output": "RRS 60.3(a) now requires a delivered protest to identify only the protestor, protestee and incident; other details must be delivered promptly upon delivery but may be added later before hearing. (RRS 60.3(a))"
+  },
+  {
+    "instruction": "In match racing, how is a penalty signalled by an umpire?",
+    "input": "",
+    "output": "An umpire signals a penalty by displaying a red flag with one long sound and hailing or signalling the penalised boat’s sail number. (Match Racing Appendix C, rule C5.2)"
+  },
+  {
+    "instruction": "What is the 'last point of certainty' in match racing umpiring?",
+    "input": "",
+    "output": "The 'last point of certainty' means umpires assume the boats’ state or relationship remains until they are certain it has changed, avoiding judgments based on unclear transitions. (Match Racing Appendix C, rule 7)"
+  },
+  {
+    "instruction": "How does a matching series score a tie between teams?",
+    "input": "",
+    "output": "In team racing round-robins, tied teams are separated by number of race wins; if incomplete (<80% sailed), results voided, then tie breaks by head-to-head records. (Team Racing Appendix D)"
+  },
+  {
+    "instruction": "When must a windsurfing competitor have their sail out of the water?",
+    "input": "",
+    "output": "In the final minute before her start signal, a board’s sail must be out of the water and in normal position, except when accidentally capsized. (Windsurfing Appendix B, rule 23.3)"
+  },
+  {
+    "instruction": "What changes apply to rule 42 for windsurfing fleet racing?",
+    "input": "",
+    "output": "'Pumping and fanning the sail is permitted. Paddling, swimming, or walking to propel the board is prohibited.' (Windsurfing Appendix B, rule 42)"
+  },
+  {
+    "instruction": "Explain the rights of protest committees under rule 60.4(c).",
+    "input": "",
+    "output": "The protest committee may protest a boat if it learns of an incident causing damage or injury—even without a protest from another boat. (RRS 60.4(c)(1))"
+  },
+  {
+    "instruction": "How are postponement signals altered in match racing?",
+    "input": "",
+    "output": "In match racing, 'AP' flag procedures change timing: the attention signal is made one minute after removal unless the race is postponed or abandoned again. (Match Racing Appendix C)"
+  },
+  {
+    "instruction": "Define 'continuing obstruction' and give an example.",
+    "input": "",
+    "output": "A continuing obstruction is one a boat nearer to it would pass alongside for at least three hull lengths—for example, a navigation buoy in a narrow channel. (RRS 19 defn)"
+  },
+  {
+    "instruction": "What is the standard of proof at misconduct hearings?",
+    "input": "",
+    "output": "Misconduct hearings use the 'comfortable satisfaction' standard, mindful of seriousness, unless national law requires otherwise. (RRS 69.2(g))"
+  },
+  {
+    "instruction": "When may a race committee change the course after the start?",
+    "input": "",
+    "output": "After the start, for safety or fairness, the race committee may shorten (flag S) or abandon (flag N) the race, or change the next leg by flag C with sound and compass/shape signals. (RRS 32 & 33)"
+  },
+  {
+    "instruction": "What defines 'abandon' versus 'postpone'?",
+    "input": "",
+    "output": "Abandon (flag N) voids a race but may be resailed; postpone (flag AP) delays the start for later. (RRS 32.3 & 25.3)"
+  },
+  {
+    "instruction": "Explain how discretionary penalties work.",
+    "input": "",
+    "output": "When a boat reports a breach subject to a DP, the protest committee may impose a penalty ranging up to disqualification without a hearing, based on evidence. (RRS 64)"
+  },
+  {
+    "instruction": "Describe the new rule for taking penalty at marks in match racing.",
+    "input": "",
+    "output": "In match racing, Rule 18.3(b) limits how far from the mark an inside overlapped right-of-way boat may sail before tacking: no farther than needed to sail her proper course. (Appendix C)"
+  },
+  {
+    "instruction": "How is an Individual Recall protested in match racing?",
+    "input": "",
+    "output": "If on the course side at her start, the race committee hails 'Recall' and the boat’s sail number, rather than using flag X. (Appendix C, rule 29.1)"
+  },
+  {
+    "instruction": "What changes were made to rule 76.3 for redress requests?",
+    "input": "",
+    "output": "RRS 76.3 now allows redress requests for improper rejection/exclusion and for breaking RRS 76.2. (76.3)"
+  },
+  {
+    "instruction": "Define 'room' and its factors.",
+    "input": "",
+    "output": "Room is the space a boat needs in current conditions, including room to comply with Part 2 and Rule 31 while manoeuvring promptly in a seamanlike way. (RRS defn)"
+  },
+  {
+    "instruction": "Explain the new timing for redress requests in 2025 rules.",
+    "input": "",
+    "output": "Redress requests must be delivered as soon as reasonably possible after relevant information is available, replacing ‘after learning of reasons’. (RRS 61.2(b))"
+  },
+  {
+    "instruction": "How are capsized boats treated under rule 22?",
+    "input": "",
+    "output": "If possible, boats shall avoid a capsized boat. A capsized boat shall not interfere with others. (RRS 22)"
+  },
+  {
+    "instruction": "When is a black flag disqualification not excludable?",
+    "input": "",
+    "output": "A black-flag DQ under rule 30.4 cannot be excluded in series scoring and applies even if the race is restarted or resailed. (RRS 30.4)"
+  },
+  {
+    "instruction": "What are the revisions to Protest Committee structure in 2025?",
+    "input": "",
+    "output": "Part 5 Sections A & B have been rearranged: Protests & Redress are rules 60–62 and Hearings & Decisions are rules 63–65, improving organization. (RRS intro)"
+  },
+  {
+    "instruction": "How has redress timing changed for requests other than the last day?",
+    "input": "",
+    "output": "RRS 61.2(b)(3) now requires other redress requests 'as soon as reasonably possible after the relevant information is available.'"
+  },
+  {
+    "instruction": "Describe the new rule on penalties without hearing for prescribed penalties.",
+    "input": "",
+    "output": "RRS 60.5(b)(3) permits NoR/SI to prescribe penalties enforceable without a hearing under rules that expressly allow it. (RRS 60.5)"
+  },
+  {
+    "instruction": "In team racing, what penalty is imposed for an unpenalized Part 2 breach causing contact?",
+    "input": "",
+    "output": "In team racing, if a Part 2 breach causes contact and no boat takes a penalty, umpires may penalize under Appendix D rule D2.3(b)."
+  },
+  {
+    "instruction": "When can a boat be exonerated for breaking rule 14?",
+    "input": "",
+    "output": "A right-of-way boat or one sailing within her room or mark-room is exonerated for breaking rule 14 if the contact causes no damage or injury. (RRS 43.1(c))"
+  },
+  {
+    "instruction": "Explain the new post-race penalty preamble note.",
+    "input": "",
+    "output": "Preamble to Appendix V2 now states that post-race penalties do not replace on-water penalties and do not eliminate the need to take prompt action under the Basic Principle. (RRS V2)"
+  },
+  {
+    "instruction": "What is the minimum number of races for a series under windsurfing rules?",
+    "input": "",
+    "output": "Under windsurfing fleet rules, if 12+ races are sailed, two worst scores are excluded; 5–11 races, one worst excluded. (Appendix B)"
+  },
+  {
+    "instruction": "How is a match racing heat started?",
+    "input": "",
+    "output": "Match heats start with a 7-minute sequence: 7′ attention (flag F), 5′ warning (pennant), 4′ preparatory (P), 2′ pre-start exit (blue/yellow), then start signal at 0. (Appendix C)"
+  },
+  {
+    "instruction": "Define 'party to a hearing' in protests.",
+    "input": "",
+    "output": "A party includes protestor, protestee, boats requesting redress, those for which redress is considered, persons alleged under rule 69, and support persons in hearings. (RRS defn)"
+  },
+  {
+    "instruction": "Explain how race ties are scored under low-point system.",
+    "input": "",
+    "output": "Tied boats share points by averaging the points for the tied places. (RRS A7)"
+  },
+  {
+    "instruction": "What is the obligation under Rule 3?",
+    "input": "",
+    "output": "Rule 3 places sole responsibility for a boat’s decision to race or continue on the boat. (RRS 3)"
+  },
+  {
+    "instruction": "When may a race be abandoned by the committee?",
+    "input": "",
+    "output": "After the start, the committee may abandon for foul weather, insufficient wind, a missing mark, or safety/fairness reasons, signalling flag N with three sounds. (RRS 32.3)"
+  },
+  {
+    "instruction": "Define 'retired after finishing' and its scoring effect.",
+    "input": "",
+    "output": "A boat retiring after finish is scored points one more than boats entered. Other boats move up one place. (RRS A5.2)"
+  },
+  {
+    "instruction": "How are excludable and non-excludable DQs identified in scoring?",
+    "input": "",
+    "output": "DQs under certain rules (e.g., black flag) are non-excludable (DNE) and must be included in series scores. (RRS A10)"
+  },
+  {
+    "instruction": "What is the process for reopening a hearing on new evidence?",
+    "input": "",
+    "output": "A party may request reopening within 24 h by written request identifying the reason; the committee must consider it. (RRS 63.7(b))"
+  },
+  {
+    "instruction": "Describe the major change to Part 5 numbering effective 2025.",
+    "input": "",
+    "output": "Part 5 Sections A & B were renumbered: Protests & Redress rules 60–65 and Hearings & Decisions rules 63–65; misconduct in rule 69, appeals in rules 70–72. (Intro)"
+  },
+  {
+    "instruction": "What is the definition of 'zone' around a mark?",
+    "input": "",
+    "output": "The zone is the area around a mark within a distance of three hull lengths of the boat nearer to it. A boat is in the zone when any part of her hull is in that area. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "instruction": "Define 'obstruction' in the context of sailing racing rules.",
+    "input": "",
+    "output": "An obstruction is an object that a boat could not pass without substantially changing her course if she were sailing directly towards it and 10 m from it; or an object that can only be safely passed on one side; or an area or line so designated in a rule. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "instruction": "Explain 'mark-room'.",
+    "input": "",
+    "output": "Mark-room is the space a boat needs to sail her proper course to round or pass the mark on the required side, and room to pass a finishing mark after finishing. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "instruction": "What constitutes 'proper course'?",
+    "input": "",
+    "output": "Proper course is the course a boat would choose to sail as quickly as possible in the absence of other boats. A boat taking a penalty or manoeuvring to take a penalty is not sailing her proper course. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "instruction": "How is 'finish' defined?",
+    "input": "",
+    "output": "A boat finishes when, after her starting signal and completing any penalties, any part of her hull crosses the finishing line from the course side. A boat has not finished if she continues to sail the course. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "instruction": "What does 'keep clear' mean?",
+    "input": "",
+    "output": "A boat keeps clear of a right-of-way boat if the right-of-way boat can sail her course with no need to take avoiding action and can change course in both directions without immediate contact. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "instruction": "When do the Part 2 rules (right-of-way) not apply between boats?",
+    "input": "",
+    "output": "Part 2 rules do not apply between two boats on opposite tacks when the first boat reaches the zone around a mark, nor between a boat approaching a mark and one leaving it. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "instruction": "Explain what happens when a right-of-way boat changes course.",
+    "input": "",
+    "output": "When a right-of-way boat changes course, she shall give the other boat room to continue keeping clear. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "instruction": "Describe the rule for starting a race.",
+    "input": "",
+    "output": "A boat starts when her hull and competitor have been entirely on the pre-start side of the line at or after her starting signal and then any part of her hull or competitor crosses the line to the course side. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "instruction": "What is an overlap?",
+    "input": "",
+    "output": "Two boats overlap when neither is clear astern of the other; that is, the line abeam from the aftermost point of one hull cuts the hull of the other. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "instruction": "When is mark-room entitlement lost?",
+    "input": "",
+    "output": "A boat’s entitlement to mark-room ceases when she leaves the zone; if she re-enters, entitlement is re-applied based on the boats’ relationship at that moment. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "instruction": "How is 'continuing obstruction' defined?",
+    "input": "",
+    "output": "A continuing obstruction is one that the boat nearer to it would pass alongside for at least three hull lengths (or 30 m in kiteboard appendices). :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "instruction": "Explain the term 'room' in sailing rules.",
+    "input": "",
+    "output": "Room is the space a boat needs in the existing conditions to comply with Part 2 and rule 31 while manoeuvring promptly in a seamanlike way. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "instruction": "What is the definition of 'capsized' for kiteboarding?",
+    "input": "",
+    "output": "A kiteboard is capsized if her kite is in the water or her lines are tangled with another kiteboard’s lines. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "instruction": "Define 'jumping' in kiteboarding rules.",
+    "input": "",
+    "output": "A kiteboard is jumping when her hull, appendages, and competitor are clear of the water. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "instruction": "When does Rule 18 (mark-room) apply?",
+    "input": "",
+    "output": "Rule 18 applies between boats required to leave a mark on the same side when at least one is in the zone. It does not apply between opposite-tack boats at the zone or between a boat approaching and one leaving. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "instruction": "What is 'recovering' for a kiteboard?",
+    "input": "",
+    "output": "A kiteboard is recovering from the time she loses steerage way until she regains it, unless she is capsized. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "instruction": "Explain the obligations when boats reach the zone overlapped.",
+    "input": "",
+    "output": "If two boats are overlapped when the first reaches the zone, the outside boat at that moment shall give the inside boat mark-room. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "instruction": "What happens if the outside boat passes head to wind in the zone?",
+    "input": "",
+    "output": "If the outside boat passes head to wind and is clear astern of the inside boat, she must still give the inside boat mark-room. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "instruction": "Describe Rule 16 for changing course or equipment.",
+    "input": "",
+    "output": "When a right-of-way boat changes course or position of equipment, she shall give the other boat room to keep clear. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "instruction": "What is the kiteboarding rule on room to tack at an obstruction?",
+    "input": "",
+    "output": "A kiteboard approaching an obstruction, if to avoid it safely she will soon need a substantial course change, may hail 'Room to tack' to require room. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "instruction": "When is a kiteboard required to hail 'You tack'?",
+    "input": "",
+    "output": "When hailing 'You tack', the competitor must point clearly at the other kiteboard and wave the arm to windward. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "instruction": "Outline the starting sequence signals under Appendix F.",
+    "input": "",
+    "output": "Under Appendix F, 3 min warning is Class flag, 2 min preparatory U or black, 1 min long sound when U/black removed, 0 min remove Class flag for start. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "instruction": "What changes to Rule 13 apply in Appendix F?",
+    "input": "",
+    "output": "Rule 13 is deleted for kiteboarding; no requirement to keep clear while tacking. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "instruction": "Define 'tack, starboard or port' for kiteboards.",
+    "input": "",
+    "output": "A kiteboard is on starboard tack when the competitor’s right hand would be forward; port when the left hand is forward. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "instruction": "Explain Rule 22 for capsized and recovering kiteboards.",
+    "input": "",
+    "output": "A kiteboard recovering shall keep clear of one that is not; one capsized or aground should be avoided if possible. :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "instruction": "What constitutes 'room to pass an obstruction' for kiteboards?",
+    "input": "",
+    "output": "A right-of-way kiteboard may choose which side to pass and must give room if changing course or kite position when doing so. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "instruction": "When does Rule 18 no longer apply after mark-room is given?",
+    "input": "",
+    "output": "Rule 18 ceases to apply between boats once the boat entitled to mark-room has been given that room. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "instruction": "Describe the definition of 'boat' in Appendix F.",
+    "input": "",
+    "output": "In Appendix F, 'boat' elsewhere in the rules means 'kiteboard' or 'boat' as appropriate. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "instruction": "What are the arm signals required for hails under Rule 20.4?",
+    "input": "",
+    "output": "For 'Room to tack', circle one hand above the head; for 'You tack', point at the other and wave windward. :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "instruction": "Explain the deletion of Rule 29 in Appendix F.",
+    "input": "",
+    "output": "Rule 29.1 (individual recall) is deleted; X flag is not used for recalls. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "instruction": "How is the term 'continuing obstruction' altered in Appendix F?",
+    "input": "",
+    "output": "A continuing obstruction is one the kiteboard will pass alongside for at least 30 m. :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "instruction": "What change was made to the preamble of Section D?",
+    "input": "",
+    "output": "Section D preamble now states that when Rule 21 or 22 applies between two kiteboards, Section A and C rules do not apply. :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "instruction": "Define 'capsize' for windsurfing in Appendix B.",
+    "input": "",
+    "output": "A board is capsized when she is not under control because her sail or competitor is in the water. :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "instruction": "How was Rule 13 changed in Appendix B?",
+    "input": "",
+    "output": "After passing head to wind, a board shall keep clear of others until sail fills; rules 10–12 do not apply during that time. :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "instruction": "What propulsion methods are permitted under Rule 42 in Appendix B?",
+    "input": "",
+    "output": "Only wind on sail and water on hull propel a board; pumping and fanning are permitted but paddling/swimming/walking are not. :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "instruction": "Describe the penalty options under Rule 44 in Appendix B.",
+    "input": "",
+    "output": "A board may take a 360°-turn penalty for Part 2 breaches, or retire if serious damage/injury occurred or advantage gained. :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "instruction": "What clothing weight limits apply under Rule 50?",
+    "input": "",
+    "output": "Competitors’ clothing/equipment must not increase weight; total clothing weight ≤ 8 kg (up to 10 kg if class rules allow). :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "instruction": "When is a board exonerated for touching a mark?",
+    "input": "",
+    "output": "Under Rule 31 (Appendix B), a board may touch a mark but shall not hold on to it. :contentReference[oaicite:38]{index=38}"
+  },
+  {
+    "instruction": "Explain Rule 23.1 in team racing (Appendix D).",
+    "input": "",
+    "output": "A boat not racing shall not interfere with one that is; a boat that has finished shall not interfere with one that has not. :contentReference[oaicite:39]{index=39}"
+  },
+  {
+    "instruction": "What is Rule 86.1(b) restriction on changing rules?",
+    "input": "",
+    "output": "The notice of race or sailing instructions may not change rule 4, 76.1/76.2(a), Appendix R, or rules listed in 86.1(a). :contentReference[oaicite:40]{index=40}"
+  },
+  {
+    "instruction": "Outline the changes to Rule 76.1 for 2025.",
+    "input": "",
+    "output": "Rule 76.1 now requires exclusion before the first race after entry receipt and a proper reason, given promptly in writing if requested. :contentReference[oaicite:41]{index=41}"
+  },
+  {
+    "instruction": "Describe the new structure of Part 5 in 2025 rules.",
+    "input": "",
+    "output": "Part 5 is now Sections A (Protests, Redress, Support Persons) rules 60–62 and Section B (Hearings & Decisions) rules 63–65. :contentReference[oaicite:42]{index=42}"
+  },
+  {
+    "instruction": "How does Rule 60.2(b) change protest hails?",
+    "input": "",
+    "output": "If the protestee was beyond hailing distance, the protestor need only inform them at the first reasonable opportunity without hail/flag. :contentReference[oaicite:43]{index=43}"
+  },
+  {
+    "instruction": "When may a notice of race prescribe penalties without a hearing?",
+    "input": "",
+    "output": "Under RRS 60.5(b)(3), the NoR/SI may prescribe penalties enforceable without a hearing if the rule allows it. :contentReference[oaicite:44]{index=44}"
+  },
+  {
+    "instruction": "Define 'support person'.",
+    "input": "",
+    "output": "A support person provides or may provide physical/advisory support to a competitor, including coach, medic, or parent/guardian. :contentReference[oaicite:45]{index=45}"
+  },
+  {
+    "instruction": "What is the 'last point of certainty' in match racing?",
+    "input": "",
+    "output": "Umpires assume boats’ states or relationships persist until certain of change, avoiding judgments on unclear transitions. :contentReference[oaicite:46]{index=46}"
+  },
+  {
+    "instruction": "Explain the 'Two-Turns Penalty'.",
+    "input": "",
+    "output": "After getting well clear, a boat makes two full turns in the same direction (one tack and one gybe each) to take a penalty; at finish she must be on course side. :contentReference[oaicite:47]{index=47}"
+  },
+  {
+    "instruction": "When may a One-Turn Penalty be taken?",
+    "input": "",
+    "output": "A boat may take a One-Turn Penalty for breaking rule 31 (touching a mark) if allowed by NoR/SI in place of Two-Turns. :contentReference[oaicite:48]{index=48}"
+  },
+  {
+    "instruction": "What is a Scoring Penalty?",
+    "input": "",
+    "output": "A boat displays a yellow flag, informs the committee, and her score is worsened by points stated in NoR/SI (20% of entrants if unspecified). :contentReference[oaicite:49]{index=49}"
+  },
+  {
+    "instruction": "How are ties scored in the low-point system?",
+    "input": "",
+    "output": "Tied boats share points by averaging the points for the tied places. :contentReference[oaicite:50]{index=50}"
+  },
+  {
+    "instruction": "Define 'retired after finishing'.",
+    "input": "",
+    "output": "A boat retiring after finish is scored points one more than boats entered; others move up one place. :contentReference[oaicite:51]{index=51}"
+  },
+  {
+    "instruction": "When is a black-flag DQ non-excludable?",
+    "input": "",
+    "output": "A black-flag DQ under rule 30.4 is non-excludable and applies even if the race is restarted or resailed. :contentReference[oaicite:52]{index=52}"
+  },
+  {
+    "instruction": "What is required under Rule 3?",
+    "input": "",
+    "output": "Rule 3 places sole responsibility for a boat’s decision to race or continue on the boat herself. :contentReference[oaicite:53]{index=53}"
+  },
+  {
+    "instruction": "How is discretionary penalty imposed?",
+    "input": "",
+    "output": "Under Rule 64, the protest committee may impose up to disqualification without hearing for certain breaches based on evidence. :contentReference[oaicite:54]{index=54}"
+  },
+  {
+    "instruction": "What is the definition of 'clear astern' and 'clear ahead'?",
+    "input": "",
+    "output": "A boat is clear astern of another when her hull and equipment in their normal positions are behind a line abeam from the aftermost point of the other boat’s hull and equipment; the other boat is then clear ahead. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "instruction": "Define 'overlap'.",
+    "input": "",
+    "output": "Two boats overlap when neither is clear astern of the other; that is, the line abeam from the aftermost point of each cuts the other’s hull. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "instruction": "What does 'fetching' a mark mean?",
+    "input": "",
+    "output": "A boat is fetching a mark when she is in a position to pass to windward of it and leave it on the required side without changing tack. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "instruction": "Explain 'course side' and 'pre-start side'.",
+    "input": "",
+    "output": "At the starting signal, the course side is the side boats must be on to start; the pre-start side is the opposite side. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "instruction": "What is the 'starting line' definition?",
+    "input": "",
+    "output": "The starting line is between a staff displaying an orange flag on the race committee vessel and the course-side of the starting mark. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "instruction": "Define 'finish line'.",
+    "input": "",
+    "output": "The finishing line is between a staff displaying a blue flag on the race committee vessel and the course-side of the finishing mark. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "instruction": "What is 'hailing distance'?",
+    "input": "",
+    "output": "Hailing distance is the distance within which competitors are expected to hear hails. If conditions make hearing difficult, a visual signal must accompany the hail. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "instruction": "Explain the rule for 'room to tack at an obstruction'.",
+    "input": "",
+    "output": "A boat may hail 'Room to tack' when approaching an obstruction if she will soon need a substantial course change to avoid it and is sailing close-hauled or above; the hailed boat must then respond. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "instruction": "What is 'continuing obstruction'?",
+    "input": "",
+    "output": "A continuing obstruction is one the boat nearer to it would pass alongside for at least three hull lengths (30 m in kiteboarding). :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "instruction": "Define 'proper course'.",
+    "input": "",
+    "output": "Proper course is the course a boat would choose to sail the course as quickly as possible in the absence of other boats. A boat taking or maneuvering to take a penalty has no proper course. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "instruction": "When does Rule 17 (On the same tack; proper course) apply?",
+    "input": "",
+    "output": "If a boat clear astern becomes overlapped within two hull lengths to leeward of a boat on the same tack, she must not sail above her proper course while overlapped within that distance, unless she immediately sails astern. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "instruction": "Explain Rule 16.2 (Beat to windward bearing away limit).",
+    "input": "",
+    "output": "On a beat to windward when a port-tack boat is keeping clear to leeward, the starboard-tack boat shall not bear away more than 90° from the true wind if that forces the port-tack boat to change course immediately to keep clear. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "instruction": "What is the definition of 'obstruction'?",
+    "input": "",
+    "output": "An obstruction is an object a boat could not pass without substantially changing course, an object safely passed on only one side, or an area/line so designated. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "instruction": "When does Rule 19 apply?",
+    "input": "",
+    "output": "Rule 19 applies between boats at an obstruction except when Rule 18 applies or if the obstruction is the mark or an overlapped boat; at a continuing obstruction, Rule 19 always applies. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "instruction": "Describe Rule 19.2(b) (Giving room at an obstruction).",
+    "input": "",
+    "output": "When boats are overlapped at an obstruction (not continuing), the outside boat must give the inside boat room between her and the obstruction, unless unable since the overlap began. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "instruction": "What signals are used in a kiteboarding start under Appendix F?",
+    "input": "",
+    "output": "Under Appendix F, 3 min warning is Class flag, 2 min ‘U’ or black flag, 1 min long sound when removed, start at 0 min with flag removal. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "instruction": "How is Rule 13 changed in Appendix F (Tacking/Gybing)?",
+    "input": "",
+    "output": "Rule 13 is deleted in Appendix F; there’s no requirement to keep clear while tacking. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "instruction": "Define 'capsize' for kiteboarding (Appendix F).",
+    "input": "",
+    "output": "A kiteboard is capsized if her kite is in the water or her lines are tangled with another kiteboard’s lines. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "instruction": "Explain Rule 20.4 arm signals.",
+    "input": "",
+    "output": "For ‘Room to tack’: circle one hand above the head; for ‘You tack’: point at the other kiteboard and wave windward. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "instruction": "What is the rule for moving astern (Rule 21.3)?",
+    "input": "",
+    "output": "A boat moving astern or sideways to windward by backing a sail shall keep clear of one that is not. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "instruction": "When does Section D override Sections A–C?",
+    "input": "",
+    "output": "When Rule 21 or 22 applies between two boats (e.g. capsized or backing sail), Section A rules do not apply. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "instruction": "What is the deletion in Rule 17 of the Match Racing Appendix C?",
+    "input": "",
+    "output": "Rule 17 (On the same tack) is deleted in Appendix C match racing. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "instruction": "Explain the Match Racing ‘last point of certainty’.",
+    "input": "",
+    "output": "Umpires assume a boat’s state or relationship remains until they are certain it has changed. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "instruction": "Define 'party to a hearing'.",
+    "input": "",
+    "output": "A party includes protestor, protestee, boat requesting redress, person alleged under Rule 69, or support person; the committee is never a party. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "instruction": "What are the hailing requirements in Radio Sailing Appendix E?",
+    "input": "",
+    "output": "Hails must be made and repeated so the addressees can hear; when required, hail by the competitor controlling the boat; digits of sail numbers hailed individually. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "instruction": "How is Rule 22 changed in Appendix E?",
+    "input": "",
+    "output": "‘If possible, a boat shall avoid a boat that is disabled.’ :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "instruction": "Describe the penalty for a Z-flag start in fleet racing.",
+    "input": "",
+    "output": "Under Z-flag (Rule 30.2), identified boats incur a 20% Scoring Penalty without hearing, even if restarted or resailed. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "instruction": "What is the I-flag rule for starts (Rule 30.1)?",
+    "input": "",
+    "output": "If I-flag is displayed, any hull on the course side in the last minute must return entirely to the pre-start side before starting. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "instruction": "Define 'did not sail the course' (NSC).",
+    "input": "",
+    "output": "NSC is used when a boat does not sail the course other than DNC, DNS, OCS, or DNF. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "instruction": "What scoring abbreviation is used for redress given?",
+    "input": "",
+    "output": "RDG is used for Redress Given. :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "instruction": "How are ties broken under A7?",
+    "input": "",
+    "output": "Ties are broken by comparing next-to-last race, then previous, etc. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "instruction": "Explain D5.2 in Team Racing (breakdowns).",
+    "input": "",
+    "output": "A boat suffering a breakdown may request a score change by displaying a red flag at the first reasonable opportunity until acknowledged. :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "instruction": "What constitutes an equitable decision for breakdowns (D5.4)?",
+    "input": "",
+    "output": "If breakdown was not crew fault and worsened score significantly, committee may abandon/resail or award predicted place, resolving doubts against the boat. :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "instruction": "Define 'disabled' in Radio Sailing Appendix E.",
+    "input": "",
+    "output": "A boat is disabled while she is unable to continue in the heat. :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "instruction": "What is the rule for transmitting radio interference in Appendix E?",
+    "input": "",
+    "output": "Transmission causing interference with other boats’ control is prohibited; offender may not race again until permitted. :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "instruction": "When may clothing weight be limited (Rule 50)?",
+    "input": "",
+    "output": "Clothing/equipment must not increase weight; total ≤ 8 kg (≤ 10 kg if class allows). :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "instruction": "What is Rule 2 (Fair Sailing)?",
+    "input": "",
+    "output": "A boat must compete in compliance with recognized principles of sportsmanship and fair play. :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "instruction": "Explain Rule 3 (Decision to Race).",
+    "input": "",
+    "output": "The responsibility for a boat’s decision to race or continue racing lies solely with her. :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "instruction": "How has Rule 76.1 changed for entry rejection?",
+    "input": "",
+    "output": "Entries must be rejected or canceled before the first race after entry receipt, with a proper reason given in writing if requested. :contentReference[oaicite:38]{index=38}"
+  },
+  {
+    "instruction": "Define 'party' under Definitions.",
+    "input": "",
+    "output": "A party to a hearing is defined in the Definitions section under 'Party' and excludes the protest committee. :contentReference[oaicite:39]{index=39}"
+  },
+  {
+    "instruction": "What is the standard of proof in misconduct hearings (Rule 69)?",
+    "input": "",
+    "output": "Misconduct hearings use the 'comfortable satisfaction' standard, mindful of seriousness. :contentReference[oaicite:40]{index=40}"
+  },
+  {
+    "instruction": "How is redress timing changed in 2025 rules (61.2)?",
+    "input": "",
+    "output": "Redress requests must be delivered as soon as reasonably possible after relevant information is available. :contentReference[oaicite:41]{index=41}"
+  },
+  {
+    "instruction": "What is the definition of 'racing'?",
+    "input": "",
+    "output": "A boat is racing from her preparatory signal until she finishes and clears the line and marks or retires, or until a general recall, postponement, or abandonment. :contentReference[oaicite:42]{index=42}"
+  },
+  {
+    "instruction": "Explain Rule 44.2 post-race penalty exclusion.",
+    "input": "",
+    "output": "Post-race penalties do not replace on-water penalties and do not remove the need for prompt action under the Basic Principle. :contentReference[oaicite:43]{index=43}"
+  },
+  {
+    "instruction": "When may national prescriptions change rules (Rule 88.2)?",
+    "input": "",
+    "output": "National authority prescriptions apply unless changed by NoR/SI in compliance with the prescription to Rule 88.2. :contentReference[oaicite:44]{index=44}"
+  },
+  {
+    "instruction": "What is the rescue obligation under Rule 1.1(b)?",
+    "input": "",
+    "output": "If reasonable safety demands, a boat must give all possible help to any person or vessel in danger. :contentReference[oaicite:45]{index=45}"
+  },
+  {
+    "instruction": "Describe the course-change signals (Rule 33).",
+    "input": "",
+    "output": "To change the next leg, committee lays a new mark and removes the original, signaling with flag C and sound. :contentReference[oaicite:46]{index=46}"
+  },
+  {
+    "instruction": "What is the definition of 'clear astern' and 'clear ahead'?",
+    "input": "",
+    "output": "A boat is clear astern of another when her hull and equipment in their normal positions are behind a line abeam from the aftermost point of the other boat’s hull and equipment; the other boat is then clear ahead. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "instruction": "Define 'overlap'.",
+    "input": "",
+    "output": "Two boats overlap when neither is clear astern of the other; that is, the line abeam from the aftermost point of each cuts the other’s hull. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "instruction": "What does 'fetching' a mark mean?",
+    "input": "",
+    "output": "A boat is fetching a mark when she is in a position to pass to windward of it and leave it on the required side without changing tack. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "instruction": "Explain 'course side' and 'pre-start side'.",
+    "input": "",
+    "output": "At the starting signal, the course side is the side boats must be on to start; the pre-start side is the opposite side. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "instruction": "What is the 'starting line' definition?",
+    "input": "",
+    "output": "The starting line is between a staff displaying an orange flag on the race committee vessel and the course-side of the starting mark. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "instruction": "Define 'finish line'.",
+    "input": "",
+    "output": "The finishing line is between a staff displaying a blue flag on the race committee vessel and the course-side of the finishing mark. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "instruction": "What is 'hailing distance'?",
+    "input": "",
+    "output": "Hailing distance is the distance within which competitors are expected to hear hails. If conditions make hearing difficult, a visual signal must accompany the hail. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "instruction": "Explain the rule for 'room to tack at an obstruction'.",
+    "input": "",
+    "output": "A boat may hail 'Room to tack' when approaching an obstruction if she will soon need a substantial course change to avoid it and is sailing close-hauled or above; the hailed boat must then respond. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "instruction": "What is 'continuing obstruction'?",
+    "input": "",
+    "output": "A continuing obstruction is one the boat nearer to it would pass alongside for at least three hull lengths (30 m in kiteboarding). :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "instruction": "Define 'proper course'.",
+    "input": "",
+    "output": "Proper course is the course a boat would choose to sail the course as quickly as possible in the absence of other boats. A boat taking or maneuvering to take a penalty has no proper course. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "instruction": "When does Rule 17 (On the same tack; proper course) apply?",
+    "input": "",
+    "output": "If a boat clear astern becomes overlapped within two hull lengths to leeward of a boat on the same tack, she must not sail above her proper course while overlapped within that distance, unless she immediately sails astern. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "instruction": "Explain Rule 16.2 (Beat to windward bearing away limit).",
+    "input": "",
+    "output": "On a beat to windward when a port-tack boat is keeping clear to leeward, the starboard-tack boat shall not bear away more than 90° from the true wind if that forces the port-tack boat to change course immediately to keep clear. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "instruction": "What is the definition of 'obstruction'?",
+    "input": "",
+    "output": "An obstruction is an object a boat could not pass without substantially changing course, an object safely passed on only one side, or an area/line so designated. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "instruction": "When does Rule 19 apply?",
+    "input": "",
+    "output": "Rule 19 applies between boats at an obstruction except when Rule 18 applies or if the obstruction is the mark or an overlapped boat; at a continuing obstruction, Rule 19 always applies. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "instruction": "Describe Rule 19.2(b) (Giving room at an obstruction).",
+    "input": "",
+    "output": "When boats are overlapped at an obstruction (not continuing), the outside boat must give the inside boat room between her and the obstruction, unless unable since the overlap began. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "instruction": "What signals are used in a kiteboarding start under Appendix F?",
+    "input": "",
+    "output": "Under Appendix F, 3 min warning is Class flag, 2 min ‘U’ or black flag, 1 min long sound when removed, start at 0 min with flag removal. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "instruction": "How is Rule 13 changed in Appendix F (Tacking/Gybing)?",
+    "input": "",
+    "output": "Rule 13 is deleted in Appendix F; there’s no requirement to keep clear while tacking. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "instruction": "Define 'capsize' for kiteboarding (Appendix F).",
+    "input": "",
+    "output": "A kiteboard is capsized if her kite is in the water or her lines are tangled with another kiteboard’s lines. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "instruction": "Explain Rule 20.4 arm signals.",
+    "input": "",
+    "output": "For ‘Room to tack’: circle one hand above the head; for ‘You tack’: point at the other kiteboard and wave windward. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "instruction": "What is the rule for moving astern (Rule 21.3)?",
+    "input": "",
+    "output": "A boat moving astern or sideways to windward by backing a sail shall keep clear of one that is not. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "instruction": "When does Section D override Sections A–C?",
+    "input": "",
+    "output": "When Rule 21 or 22 applies between two boats (e.g. capsized or backing sail), Section A rules do not apply. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "instruction": "What is the deletion in Rule 17 of the Match Racing Appendix C?",
+    "input": "",
+    "output": "Rule 17 (On the same tack) is deleted in Appendix C match racing. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "instruction": "Explain the Match Racing ‘last point of certainty’.",
+    "input": "",
+    "output": "Umpires assume a boat’s state or relationship remains until they are certain it has changed. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "instruction": "Define 'party to a hearing'.",
+    "input": "",
+    "output": "A party includes protestor, protestee, boat requesting redress, person alleged under Rule 69, or support person; the committee is never a party. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "instruction": "What are the hailing requirements in Radio Sailing Appendix E?",
+    "input": "",
+    "output": "Hails must be made and repeated so the addressees can hear; when required, hail by the competitor controlling the boat; digits of sail numbers hailed individually. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "instruction": "How is Rule 22 changed in Appendix E?",
+    "input": "",
+    "output": "‘If possible, a boat shall avoid a boat that is disabled.’ :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "instruction": "Describe the penalty for a Z-flag start in fleet racing.",
+    "input": "",
+    "output": "Under Z-flag (Rule 30.2), identified boats incur a 20% Scoring Penalty without hearing, even if restarted or resailed. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "instruction": "What is the I-flag rule for starts (Rule 30.1)?",
+    "input": "",
+    "output": "If I-flag is displayed, any hull on the course side in the last minute must return entirely to the pre-start side before starting. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "instruction": "Define 'did not sail the course' (NSC).",
+    "input": "",
+    "output": "NSC is used when a boat does not sail the course other than DNC, DNS, OCS, or DNF. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "instruction": "What scoring abbreviation is used for redress given?",
+    "input": "",
+    "output": "RDG is used for Redress Given. :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "instruction": "How are ties broken under A7?",
+    "input": "",
+    "output": "Ties are broken by comparing next-to-last race, then previous, etc. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "instruction": "Explain D5.2 in Team Racing (breakdowns).",
+    "input": "",
+    "output": "A boat suffering a breakdown may request a score change by displaying a red flag at the first reasonable opportunity until acknowledged. :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "instruction": "What constitutes an equitable decision for breakdowns (D5.4)?",
+    "input": "",
+    "output": "If breakdown was not crew fault and worsened score significantly, committee may abandon/resail or award predicted place, resolving doubts against the boat. :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "instruction": "Define 'disabled' in Radio Sailing Appendix E.",
+    "input": "",
+    "output": "A boat is disabled while she is unable to continue in the heat. :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "instruction": "What is the rule for transmitting radio interference in Appendix E?",
+    "input": "",
+    "output": "Transmission causing interference with other boats’ control is prohibited; offender may not race again until permitted. :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "instruction": "When may clothing weight be limited (Rule 50)?",
+    "input": "",
+    "output": "Clothing/equipment must not increase weight; total ≤ 8 kg (≤ 10 kg if class allows). :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "instruction": "What is Rule 2 (Fair Sailing)?",
+    "input": "",
+    "output": "A boat must compete in compliance with recognized principles of sportsmanship and fair play. :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "instruction": "Explain Rule 3 (Decision to Race).",
+    "input": "",
+    "output": "The responsibility for a boat’s decision to race or continue racing lies solely with her. :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "instruction": "How has Rule 76.1 changed for entry rejection?",
+    "input": "",
+    "output": "Entries must be rejected or canceled before the first race after entry receipt, with a proper reason given in writing if requested. :contentReference[oaicite:38]{index=38}"
+  },
+  {
+    "instruction": "Define 'party' under Definitions.",
+    "input": "",
+    "output": "A party to a hearing is defined in the Definitions section under 'Party' and excludes the protest committee. :contentReference[oaicite:39]{index=39}"
+  },
+  {
+    "instruction": "What is the standard of proof in misconduct hearings (Rule 69)?",
+    "input": "",
+    "output": "Misconduct hearings use the 'comfortable satisfaction' standard, mindful of seriousness. :contentReference[oaicite:40]{index=40}"
+  },
+  {
+    "instruction": "How is redress timing changed in 2025 rules (61.2)?",
+    "input": "",
+    "output": "Redress requests must be delivered as soon as reasonably possible after relevant information is available. :contentReference[oaicite:41]{index=41}"
+  },
+  {
+    "instruction": "What is the definition of 'racing'?",
+    "input": "",
+    "output": "A boat is racing from her preparatory signal until she finishes and clears the line and marks or retires, or until a general recall, postponement, or abandonment. :contentReference[oaicite:42]{index=42}"
+  },
+  {
+    "instruction": "Explain Rule 44.2 post-race penalty exclusion.",
+    "input": "",
+    "output": "Post-race penalties do not replace on-water penalties and do not remove the need for prompt action under the Basic Principle. :contentReference[oaicite:43]{index=43}"
+  },
+  {
+    "instruction": "When may national prescriptions change rules (Rule 88.2)?",
+    "input": "",
+    "output": "National authority prescriptions apply unless changed by NoR/SI in compliance with the prescription to Rule 88.2. :contentReference[oaicite:44]{index=44}"
+  },
+  {
+    "instruction": "What is the rescue obligation under Rule 1.1(b)?",
+    "input": "",
+    "output": "If reasonable safety demands, a boat must give all possible help to any person or vessel in danger. :contentReference[oaicite:45]{index=45}"
+  },
+  {
+    "instruction": "Describe the course-change signals (Rule 33).",
+    "input": "",
+    "output": "To change the next leg, committee lays a new mark and removes the original, signaling with flag C and sound. :contentReference[oaicite:46]{index=46}"
+  },
+  {
+    "instruction": "Define 'clear astern' and 'clear ahead'.",
+    "input": "",
+    "output": "A boat is clear astern of another when her hull and equipment in normal position are entirely behind a line abeam from the aftermost point of the other boat; that other boat is then clear ahead. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "instruction": "What is the definition of 'fetching a mark'?",
+    "input": "",
+    "output": "A boat is fetching a mark when she can pass to windward of it and leave it on the required side without changing tack. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "instruction": "Explain 'starting line'.",
+    "input": "",
+    "output": "The starting line is the line between a staff displaying an orange flag on the race committee vessel and the course side of the starting mark. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "instruction": "What is 'finish line'?",
+    "input": "",
+    "output": "The finishing line is the line between a staff displaying a blue flag on the race committee vessel and the course side of the finishing mark. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "instruction": "Define 'hailing distance'.",
+    "input": "",
+    "output": "Hailing distance is the distance within which competitors are expected to hear hails; if conditions prevent hearing, a visual signal must accompany the hail. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "instruction": "What is the rule for 'room to tack at an obstruction'?",
+    "input": "",
+    "output": "A boat approaching an obstruction may hail 'Room to tack' when she will soon need a substantial course change to avoid it and is sailing close-hauled or above; the hailed boat must then respond. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "instruction": "Define 'continuing obstruction'.",
+    "input": "",
+    "output": "A continuing obstruction is one the boat nearer to it would pass alongside for at least three hull lengths (30 m in kiteboarding). :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "instruction": "What does Rule 41 (Outside Help) prohibit and allow?",
+    "input": "",
+    "output": "Rule 41 forbids help from any outside source, except: (a) help for an ill, injured or endangered crew; (b) post-collision help from the other boat; (c) help freely available to all; (d) unsolicited information from a disinterested source. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "instruction": "Explain Rule 47 (Trash Disposal).",
+    "input": "",
+    "output": "Competitors and support persons shall not intentionally put trash in the water at any time while afloat. Breach of this rule may incur a penalty less than disqualification. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "instruction": "When must personal flotation devices be worn (Rule 40)?",
+    "input": "",
+    "output": "When Flag Y is displayed afloat before or with the warning signal, or ashore with one sound, or when specified by class rules/NoR/SI, each competitor shall wear a PFD except briefly while changing clothing or gear. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "instruction": "Define 'movable ballast' (Rule 51).",
+    "input": "",
+    "output": "All movable ballast, including sails not set, must be properly stowed; water or other ballast shall not be moved to change trim or stability, though bilge water may be bailed out. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "instruction": "What does Rule 52 (Manual Power) require?",
+    "input": "",
+    "output": "Standing rigging, running rigging, spars and movable hull appendages shall be adjusted and operated only by the power provided by the crew. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "instruction": "Explain Rule 53 (Skin Friction).",
+    "input": "",
+    "output": "A boat shall not eject or release substances (e.g., polymers) or have specially textured surfaces designed to improve water flow in the boundary layer. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "instruction": "Describe Rule 54 (Forestays and Headsail Tacks).",
+    "input": "",
+    "output": "Forestays and headsail tacks (except set spinnaker staysails) must attach approximately on the boat’s centerline when close-hauled. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "instruction": "What are the limits when changing sails (Rule 55.1)?",
+    "input": "",
+    "output": "When changing headsails or spinnakers, a replacing sail may be trimmed before the old sail is lowered; only one mainsail and one spinnaker may be carried set at a time. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "instruction": "Explain Rule 55.2 on spinnaker poles.",
+    "input": "",
+    "output": "Only one spinnaker or whisker pole may be used at a time except when gybing; when in use it must attach to the foremost mast spar. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "instruction": "What does Rule 45 (Hauling Out; Making Fast; Anchoring) prohibit?",
+    "input": "",
+    "output": "A boat shall be afloat and off moorings by her preparatory signal; thereafter she shall not be hauled out or made fast except to bail, reef or repair, and may anchor only to bail or reef, recovering anchor before resuming unless unable. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "instruction": "Define 'person in charge' (Rule 46).",
+    "input": "",
+    "output": "The person in charge is designated by the member or organization entering the boat and must be on board at all times. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "instruction": "When may a boat race without a valid certificate (Rule 78.2)?",
+    "input": "",
+    "output": "If required to produce a certificate before racing but unable, a boat may race upon delivering a signed statement that a valid certificate exists, then must produce or verify it before the last day of the event or first series; penalty is DQ without hearing. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "instruction": "What are categorization requirements (Rule 79)?",
+    "input": "",
+    "output": "If the NoR or class rules require categorization, it must follow the World Sailing Sailor Categorization Code. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "instruction": "Explain the rule for rescheduled events (Rule 80).",
+    "input": "",
+    "output": "When an event’s dates change from those in the NoR, all entered boats must be notified; new entries meeting original entry requirements except deadline may be accepted. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "instruction": "What does Rule 85.1 require for changes to rules?",
+    "input": "",
+    "output": "A change to any rule must refer specifically to that rule and state the change, including additions or deletions. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "instruction": "Under what authority may racing rules be changed (Rule 86.1)?",
+    "input": "",
+    "output": "Racing rules may be changed only as permitted by their own text, national prescriptions, NoR/SI (within limits), class rules (limited rules), or World Sailing authorization for specific events. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "instruction": "What is the prescription for adding indemnification agreements (Rule 81 US Sailing)?",
+    "input": "",
+    "output": "US Sailing prescribes that organizing authorities shall not require competitors to sign indemnification or hold harmless agreements. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "instruction": "Explain US Sailing’s prescription to Rule 76.1 on entry rejection.",
+    "input": "",
+    "output": "US Sailing prescribes that entries may not be rejected or canceled for arbitrary or capricious reasons or discriminatory grounds; exclusion only as listed for national security. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "instruction": "Define 'protest time limit' (Rule 60.3).",
+    "input": "",
+    "output": "The protest time limit is two hours after the last boat finishes for on-water incidents, or two hours after relevant information is available; extended if NoR/SI specify or protest committee grants. :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "instruction": "What is required in a delivered protest (Rule 60.3(a))?",
+    "input": "",
+    "output": "A protest must be in writing and identify the protestor, protestee, and the incident. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "instruction": "List the conditions under which a protest is invalid (Rule 60.4(a)).",
+    "input": "",
+    "output": "A protest is invalid if it fails the definition of protest, or Rules 60.2/60.3; if from a boat alleging a Part 2 breach without involvement or observation; or alleging a Rule 69 breach without permission. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "instruction": "When may a protest committee protest under Rule 60.4(c)?",
+    "input": "",
+    "output": "A committee may protest a boat on its own if it learns of injury/damage incidents or during a hearing of a valid protest involving a non-party boat. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "instruction": "Explain Rule 61.2(b) timing for redress requests.",
+    "input": "",
+    "output": "Redress requests must be written and delivered within the protest time limit or two hours after the incident, within 30 minutes after last-day protest decisions, or as soon as reasonably possible after other relevant information is available. :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "instruction": "What entitles a boat to redress (Rule 61.4(b))?",
+    "input": "",
+    "output": "A boat is entitled to redress if her score/place is worsened through no fault of her own by improper authority action, injury/damage from penalized boats or vessels, help given under Rule 1.1, or another’s Rule 2/69 penalty. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "instruction": "Define 'support person' (Rule 62).",
+    "input": "",
+    "output": "A support person is anyone providing support (advisory or physical) to a competitor, including coaches, medics, family, or technical advisors. :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "instruction": "What actions may a protest committee take against a support person (Rule 62.3)?",
+    "input": "",
+    "output": "If a support person is found to have broken a rule, the committee may warn them, exclude them from the event/venue, remove privileges, or penalize their boat’s score up to disqualification. :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "instruction": "List the rights of parties at a hearing (Rule 63.1).",
+    "input": "",
+    "output": "All parties must be informed of hearing time/place, have access to protest/redress materials, reasonable preparation time, and the right to representation; exceptions apply for Part 2/3/4 protests. :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "instruction": "Explain the conflict-of-interest rule for protest committees (Rule 63.3).",
+    "input": "",
+    "output": "Members must declare conflicts early; parties may object; conflicted members may only serve if all parties consent or committee deems the conflict insignificant, except in major events. :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "instruction": "When may hearings be combined (Rule 63.2(b))?",
+    "input": "",
+    "output": "Hearings on same or closely connected incidents may be combined, but hearings under Rule 69 cannot combine with other types. :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "instruction": "Define the standard of proof in misconduct hearings (Rule 69.2(g)).",
+    "input": "",
+    "output": "Misconduct hearings use the 'comfortable satisfaction' standard, considering the seriousness of allegations. :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "instruction": "What does Rule 75 (Compliance) require?",
+    "input": "",
+    "output": "A boat and crew shall comply with class rules, technical regulations, and equipment rules, ensuring certificates are valid and measurements conform. :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "instruction": "Explain Rule 76.2 (Changes After Class Rules Published).",
+    "input": "",
+    "output": "Notice of race or class rules may change class rules only as permitted by class associations; changes must appear in NoR/SI and be posted on the notice board. :contentReference[oaicite:38]{index=38}"
+  },
+  {
+    "instruction": "What do Rule 78 (Compliance) certificates cover?",
+    "input": "",
+    "output": "Certificates may cover measurement, equipment, safety, or rating compliance; failure to produce before required time leads to disqualification. :contentReference[oaicite:39]{index=39}"
+  },
+  {
+    "instruction": "Describe Rule 80.3 (Rescheduled Events) acceptance of late entries.",
+    "input": "",
+    "output": "When an event is rescheduled, new entries meeting all requirements except the original deadline may be accepted at the committee’s discretion. :contentReference[oaicite:40]{index=40}"
+  },
+  {
+    "instruction": "Define 'racing' (Definitions).",
+    "input": "",
+    "output": "A boat races from her preparatory signal until she finishes and clears the line and marks, retires, or until a general recall/postponement/abandonment. :contentReference[oaicite:41]{index=41}"
+  },
+  {
+    "instruction": "What is Rule 2 (Fair Sailing)?",
+    "input": "",
+    "output": "Boats and owners must compete observing sportsmanship and fair play; violation may incur non-excludable disqualification. :contentReference[oaicite:42]{index=42}"
+  },
+  {
+    "instruction": "Explain Rule 3 (Decision to Race).",
+    "input": "",
+    "output": "The decision to race or continue racing is solely the boat’s responsibility. :contentReference[oaicite:43]{index=43}"
+  },
+  {
+    "instruction": "Detail Rule 4.3 on acceptance of rules.",
+    "input": "",
+    "output": "Competitors and owners agree to be governed by the rules, accept penalties/final decisions, not seek external tribunals, and ensure support persons comply. :contentReference[oaicite:44]{index=44}"
+  },
+  {
+    "instruction": "What does Rule 5 (Organizing Authorities) require?",
+    "input": "",
+    "output": "Organizing authorities, committees, and officials must be governed by the rules in conducting and judging events. :contentReference[oaicite:45]{index=45}"
+  },
+  {
+    "instruction": "Explain Rule 6 (World Sailing Regulations).",
+    "input": "",
+    "output": "Competitors, owners, and support persons must comply with designated World Sailing Regulations: Advertising, Anti-Doping, Ethics, Eligibility, and Categorization Codes. :contentReference[oaicite:46]{index=46}"
+  },
+  {
+    "instruction": "What is Rule 23’s restriction on interfering with another boat?",
+    "input": "",
+    "output": "Under Rule 23.1, a boat not racing shall, if reasonably possible, not interfere with a boat that is racing; under Rule 23.2, a boat shall not interfere with another taking a penalty or sailing another leg, except when on proper course after the start :contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "instruction": "When may the notice of race or sailing instructions change signal meanings?",
+    "input": "",
+    "output": "Rule 25.2 states that visual and sound signals in the Race Signals remain unchanged unless altered under Rule 86.1(b); any other signals used must have their meanings specified in the NoR or SI :contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "instruction": "What must the race committee do no later than the warning signal?",
+    "input": "",
+    "output": "Under Rule 27.1, they must signal or otherwise designate the course to be sailed, and may require PFDs by displaying flag Y with one sound :contentReference[oaicite:2]{index=2}."
+  },
+  {
+    "instruction": "How can the race committee move a starting mark before the start?",
+    "input": "",
+    "output": "Rule 27.2 allows moving a starting mark no later than the preparatory signal :contentReference[oaicite:3]{index=3}."
+  },
+  {
+    "instruction": "Describe how a race may be postponed or abandoned before starting.",
+    "input": "",
+    "output": "Under Rule 27.3, before the start they may postpone (AP, AP over H/A with two sounds) or abandon (N, N over H/A with three sounds) for any reason :contentReference[oaicite:4]{index=4}."
+  },
+  {
+    "instruction": "What does Rule 28 require of competitors?",
+    "input": "",
+    "output": "Rule 28.1 mandates that a boat shall sail the course; under 28.2 she may correct errors before finishing :contentReference[oaicite:5]{index=5}."
+  },
+  {
+    "instruction": "How does the Individual Recall signal work?",
+    "input": "",
+    "output": "Rule 29.1 requires display of flag X with one sound at the starting signal if a boat is OCS or must comply with 30.1; the flag stays until offending boats are completely pre-start or four minutes have elapsed :contentReference[oaicite:6]{index=6}."
+  },
+  {
+    "instruction": "When may a general recall be signaled?",
+    "input": "",
+    "output": "Rule 29.2 allows a general recall (First Substitute, two sounds) if boats on the course side can’t be identified or starting procedure errors occur; a new warning signal follows one minute after removal :contentReference[oaicite:7]{index=7}."
+  },
+  {
+    "instruction": "Explain the I-Flag Rule (30.1).",
+    "input": "",
+    "output": "If Flag I is displayed, any hull on the course side in the last minute must sail across an extension wholly pre-start before starting, otherwise she breaches Rule 30.1 :contentReference[oaicite:8]{index=8}."
+  },
+  {
+    "instruction": "How does the Z-Flag Rule (30.2) work?",
+    "input": "",
+    "output": "With Flag Z up, no hull may be in the triangle formed by the starting line ends and first mark in the last minute; identified boats receive a 20% Scoring Penalty under Rule 44.3(c), even if restarted, but not if postponed/abandoned before start :contentReference[oaicite:9]{index=9}."
+  },
+  {
+    "instruction": "What is the U-Flag penalty?",
+    "input": "",
+    "output": "If Flag U is displayed, any hull in the triangle during the last minute is disqualified without hearing (Rule 30.3), unless the race is postponed or abandoned before the start :contentReference[oaicite:10]{index=10}."
+  },
+  {
+    "instruction": "Describe the Black-Flag Rule (30.4).",
+    "input": "",
+    "output": "Under Flag Black, any hull in the triangle during the last minute is disqualified without hearing—even if restarted or resailed—but not if postponed/abandoned before start; disqualified boats must be displayed before the next warning and cannot re-start or have DQ excluded :contentReference[oaicite:11]{index=11}."
+  },
+  {
+    "instruction": "What constitutes touching a mark under Rule 31?",
+    "input": "",
+    "output": "Rule 31 prohibits touching a starting mark before start, course marks during the leg, or a finishing mark after finish :contentReference[oaicite:12]{index=12}."
+  },
+  {
+    "instruction": "When may the committee shorten or abandon a race after the start?",
+    "input": "",
+    "output": "Rule 32.1 permits shortening or abandoning for foul weather, insufficient wind, missing/out-of-position marks, safety/fairness, or scheduling errors; after the first boat finishes, they must consider series consequences before abandoning :contentReference[oaicite:13]{index=13}."
+  },
+  {
+    "instruction": "How is a course shortened (Rule 32.2)?",
+    "input": "",
+    "output": "Display flag S with two sounds before the first boat finishes; the new finish line is at a rounding mark (between it and S), a required crossing line, or a gate :contentReference[oaicite:14]{index=14}."
+  },
+  {
+    "instruction": "How is a race abandoned in progress (Rule 32.3)?",
+    "input": "",
+    "output": "Display flag N, N over H, or N over A with three sounds to abandon an ongoing race :contentReference[oaicite:15]{index=15}."
+  },
+  {
+    "instruction": "Explain Rule 33 on changing the next leg.",
+    "input": "",
+    "output": "To change a leg beginning at a mark/gate, reposition the next mark (or finish line) and signal before boats begin the leg; the replacement need not be in place at signal time :contentReference[oaicite:16]{index=16}."
+  },
+  {
+    "instruction": "What signals indicate a compass-bearing change under Rule 33(a)?",
+    "input": "",
+    "output": "Display flag C with repetitive sounds plus the new bearing and/or a green triangle (starboard) or red rectangle (port) :contentReference[oaicite:17]{index=17}."
+  },
+  {
+    "instruction": "How is the length of a leg changed (Rule 33(b))?",
+    "input": "",
+    "output": "Display flag C with repetitive sounds and ‘–’ to shorten or ‘+’ to lengthen; subsequent legs may change without further signals to keep course shape :contentReference[oaicite:18]{index=18}."
+  },
+  {
+    "instruction": "What must the race committee do if a mark is missing (Rule 34)?",
+    "input": "",
+    "output": "Move the mark to its correct position or replace it with a similarly appearing object displaying flag M and make repetitive sounds :contentReference[oaicite:19]{index=19}."
+  },
+  {
+    "instruction": "How are time limits and scores handled (Rule 35)?",
+    "input": "",
+    "output": "If any boat finishes within the time limit, finishers score by place unless abandoned; if none do, the race is abandoned :contentReference[oaicite:20]{index=20}."
+  },
+  {
+    "instruction": "What happens when a race is restarted or resailed (Rule 36)?",
+    "input": "",
+    "output": "Breaches in the original race or earlier restarts do not prohibit boats from racing or incur penalties except under rules 2, 30.2, 30.4, 69, or rule 14 if injury/damage occurred :contentReference[oaicite:21]{index=21}."
+  },
+  {
+    "instruction": "What does flag V signal (Rule 37)?",
+    "input": "",
+    "output": "Display flag V with one sound to instruct all boats and official/support vessels to monitor the race committee communication channel for search and rescue instructions :contentReference[oaicite:22]{index=22}."
+  },
+  {
+    "instruction": "Define 'race signals' categories (Race Signals section).",
+    "input": "",
+    "output": "Race signals include starting, recall, abandonment, postponement, shortened course, change-next-leg, safety (V), and others; their visual and sound meanings are in the Race Signals section :contentReference[oaicite:23]{index=23}."
+  },
+  {
+    "instruction": "How is a Sailing Instructions requirement signaled under Rule 25.3?",
+    "input": "",
+    "output": "When a flag is required, the committee may use any similar-looking object as visual signal :contentReference[oaicite:24]{index=24}."
+  },
+  {
+    "instruction": "What is the protest time limit default (Rule 60.3(b))?",
+    "input": "",
+    "output": "Protests of incidents in the racing area must be delivered within two hours after the last boat finishes; other protests within two hours after relevant information is available :contentReference[oaicite:25]{index=25}."
+  },
+  {
+    "instruction": "How are Z-Flag penalties scored (Rule 44.3(c))?",
+    "input": "",
+    "output": "A Z-Flag penalty gives a 20% Scoring Penalty of entrants (Rule 44.3(c)), applied without hearing even after a restart or resail :contentReference[oaicite:26]{index=26}."
+  },
+  {
+    "instruction": "What changes did Appendix B make to Rule 31 (Touching a mark)?",
+    "input": "",
+    "output": "In Appendix B for windsurfing, boats may touch a mark but must not hold on to it :contentReference[oaicite:27]{index=27}."
+  },
+  {
+    "instruction": "How was Rule 42 modified in Appendix B?",
+    "input": "",
+    "output": "Appendix B permits pumping and fanning the sail but prohibits propulsion by paddling, swimming, or walking :contentReference[oaicite:28]{index=28}."
+  },
+  {
+    "instruction": "Describe the Appendix B penalty format (Rule 44.2).",
+    "input": "",
+    "output": "Windsurfers take a 360°-Turn Penalty (single rotation) after getting clear; near the finish they must be fully on course side before finishing :contentReference[oaicite:29]{index=29}."
+  },
+  {
+    "instruction": "What clothing rule change does Appendix B introduce (Rule 50.1(a))?",
+    "input": "",
+    "output": "Competitors may not wear or carry clothing/equipment to increase weight but may wear a drinking container ≤1.5 L :contentReference[oaicite:30]{index=30}."
+  },
+  {
+    "instruction": "Which Part 4 rules were deleted in Appendix B?",
+    "input": "",
+    "output": "Rules 45, 48.2, 49, 50.1(c), 50.2, 51, 52, 54, 55, and 56.1 were deleted for windsurfing fleet racing :contentReference[oaicite:31]{index=31}."
+  },
+  {
+    "instruction": "How does Appendix C modify Rule 23.1?",
+    "input": "",
+    "output": "Appendix C changes Rule 23.1 to include not interfering with an umpire boat as well as a racing boat :contentReference[oaicite:32]{index=32}."
+  },
+  {
+    "instruction": "What new rule does Appendix C add for inter-match encounters (23.3)?",
+    "input": "",
+    "output": "Rule 23.3 requires that when boats in different matches meet, any course change must comply with a rule or aim to win their own match :contentReference[oaicite:33]{index=33}."
+  },
+  {
+    "instruction": "How did Appendix C change touching a mark (Rule 31)?",
+    "input": "",
+    "output": "It adds that while racing, no hull or crew may touch a starting, rounding, or finishing mark, nor a race committee vessel serving as a mark :contentReference[oaicite:34]{index=34}."
+  },
+  {
+    "instruction": "What assistance does Appendix C permit under new Rule 41(e)?",
+    "input": "",
+    "output": "Umpires may help recover a crew member from the water and return them on board near the recovery location :contentReference[oaicite:35]{index=35}."
+  },
+  {
+    "instruction": "When does Rule 42 apply in match racing (Appendix C)?",
+    "input": "",
+    "output": "Appendix C extends Rule 42 to apply between the warning and preparatory signals :contentReference[oaicite:36]{index=36}."
+  },
+  {
+    "instruction": "What change did Appendix C make to Rule 27.2?",
+    "input": "",
+    "output": "It allows the race committee to move a starting mark no later than the warning signal :contentReference[oaicite:37]{index=37}."
+  },
+  {
+    "instruction": "Summarize the match racing starting sequence (Appendix C3.1).",
+    "input": "",
+    "output": "7′ attention (F), 5′ warning (pennant), 4′ preparatory (P), 2′ end-entry (blue/yellow), 1′ long, 0′ start; sound signals accompany visual :contentReference[oaicite:38]{index=38}."
+  },
+  {
+    "instruction": "What are match racing penalty limitations (C7.3)?",
+    "input": "",
+    "output": "Penalties including a tack require the spinnaker head below gooseneck; no part may be inside the zone; one penalty may be taken anytime before finish; two before finish but not before start :contentReference[oaicite:39]{index=39}."
+  },
+  {
+    "instruction": "How are umpire-initiated penalties handled (Appendix C8)?",
+    "input": "",
+    "output": "Rule 60.1 doesn’t apply to protests by race or technical committee when penalties may be imposed by umpires :contentReference[oaicite:40]{index=40}."
+  },
+  {
+    "instruction": "What is the role of the notice board under standard SI (Appendix S)?",
+    "input": "",
+    "output": "SI 13.1–13.4 require posting hearing forms, protest/redress time limits, and notices of hearings or protests by committees on the official notice board :contentReference[oaicite:41]{index=41}."
+  },
+  {
+    "instruction": "How are time limits defined in standard SI (Appendix S 12)?",
+    "input": "",
+    "output": "SI 12.1–12.3 specify Mark 1 time limit, race time limit, finishing window, abandonment if no boat passes Mark 1, and DNF scoring if outside window :contentReference[oaicite:42]{index=42}."
+  },
+  {
+    "instruction": "Explain scoring abbreviations NSC and RDG (Appendix S).",
+    "input": "",
+    "output": "NSC (Did Not Sail Course) for boats not sailing the course; RDG for Redress Given :contentReference[oaicite:43]{index=43}."
+  },
+  {
+    "instruction": "Describe the supplement’s responsibility for rule changes (Appendix S 9).",
+    "input": "",
+    "output": "SI 9.1–9.2 confirm that races start under RRS 26 and that starting/finishing lines match RRS definitions; any supplement changes appear in SI :contentReference[oaicite:44]{index=44}."
+  },
+  {
+    "instruction": "Explain Rule 14: Avoiding Contact.",
+    "input": "Two boats converge on a collision course on the same tack.",
+    "output": "Under Rule 14, a boat shall avoid contact with another boat if reasonably possible. Even a right-of-way boat must take evasive action to avoid a collision if it can do so without breaking another rule. "
+  },
+  {
+    "instruction": "When does Rule 15: Acquiring Right-of-Way apply?",
+    "input": "Boat A is clear astern of Boat B on the same tack and overlaps within two hull lengths to leeward.",
+    "output": "Rule 15 applies as soon as Boat A acquires right-of-way by coming from clear astern to leeward overlap within two hull lengths; Boat B must then keel-haul to avoid contact. "
+  },
+  {
+    "instruction": "Describe Rule 17: On the Same Tack; Proper Course.",
+    "input": "",
+    "output": "If a leeward boat becomes overlapped within two hull lengths to windward of a windward boat on the same tack, she must not sail above her proper course while overlapped within that distance, unless she immediately sails astern. "
+  },
+  {
+    "instruction": "What does Rule 49 prohibit?",
+    "input": "",
+    "output": "Rule 49 forbids propulsion by swimming: a boat shall not propel herself by using her crew as oars, including swimming or pushing off the bottom. "
+  },
+  {
+    "instruction": "When must Personal Flotation Devices be worn under Rule 57?",
+    "input": "",
+    "output": "When Flag Y is displayed before or with the warning signal, each competitor shall wear a PFD properly secured, except briefly while changing clothes or equipment. "
+  },
+  {
+    "instruction": "Explain the requirement of Rule 56 for VHF radios.",
+    "input": "",
+    "output": "Rule 56 requires that automatic and wind-powered VHF radios be on board and set to the race committee’s channel except when in use for safety or research. "
+  },
+  {
+    "instruction": "What is Rule 62.2 on hearings for broken rules?",
+    "input": "",
+    "output": "Under Rule 62.2, a boat may request a hearing when she believes a rule has been broken and redress is sought; the request must state the facts and reasons. "
+  },
+  {
+    "instruction": "Describe Rule 65: Decisions and Appeals.",
+    "input": "",
+    "output": "Rule 65 outlines that decisions of protest committees are final unless an appeal is allowed under Rules 70–72; appeals must follow national authority procedures. "
+  },
+  {
+    "instruction": "What is the purpose of Rule 70 on appeals?",
+    "input": "",
+    "output": "Rule 70 allows a party to appeal a protest committee’s decision to the national authority or World Sailing, provided they follow the appeal procedures and timelines. "
+  },
+  {
+    "instruction": "Explain Rule 71: Appeals.",
+    "input": "",
+    "output": "Rule 71 specifies that appeals must be in writing, submitted within the time limit, and accompanied by any required fee and documentation. "
+  },
+  {
+    "instruction": "When does Rule 72 allow redress hearings?",
+    "input": "",
+    "output": "Rule 72 permits redress hearings for decisions of international juries or national appeals, focusing on whether correct procedures were followed. "
+  },
+  {
+    "instruction": "What signal does Flag L convey?",
+    "input": "",
+    "output": "Flag L (blue square with yellow cross) signals that boats should come within hail or be identified; it may be used with one sound. "
+  },
+  {
+    "instruction": "Explain the meaning of Flag Q under RRS.",
+    "input": "",
+    "output": "Flag Q (solid yellow) displayed ashore means boats shall not leave the shore until the signal is removed; afloat it signals that the next signal will be made. "
+  },
+  {
+    "instruction": "What does Flag T require of competitors?",
+    "input": "",
+    "output": "Flag T (white with red cross) signals that boats must use VHF radio and monitor the race committee channel for instructions; failure may incur a penalty. "
+  },
+  {
+    "instruction": "Describe the Black-Cone signal.",
+    "input": "",
+    "output": "The black cone (apex down) signals that course changes are being made; boats must not change course until the signal is removed. "
+  },
+  {
+    "instruction": "Outline Appendix A2.2 on scoring ties.",
+    "input": "",
+    "output": "Appendix A2.2 states that tied boats share the points for the places they occupy by averaging those places’ points. "
+  },
+  {
+    "instruction": "What does Appendix A5.3 say about retiring after finishing?",
+    "input": "",
+    "output": "Appendix A5.3 specifies that a boat retiring after finishing shall be scored points equal to the number of boats that came to the starting area plus one. "
+  },
+  {
+    "instruction": "Explain the format of a Team Racing Knock-Out Match under Appendix G.",
+    "input": "",
+    "output": "Appendix G defines a knock-out match as best-of-X races between two teams, with specific sail-number assignments and scoring zones. "
+  },
+  {
+    "instruction": "What vehicles does Appendix H cover?",
+    "input": "",
+    "output": "Appendix H applies to wind-powered vehicles such as land yachts and iceboats, modifying right-of-way and Part 2 rules accordingly. "
+  },
+  {
+    "instruction": "Describe Appendix R’s application to 18-Foot Skiffs.",
+    "input": "",
+    "output": "Appendix R specifies starting sequences, sail-numbering, spinnaker handling, and penalty procedures unique to 18-Foot Skiff fleets. "
+  },
+  {
+    "instruction": "What arbitration process does Appendix T provide?",
+    "input": "",
+    "output": "Appendix T offers a faster alternative to protests: after a breach, a boat may take a penalty and waive a hearing, or request arbitration within 15 minutes of filing. "
+  },
+  {
+    "instruction": "What is the consequence under Rule 24 for failing to start, restart, or finish?",
+    "input": "",
+    "output": "Under Rule 24.1, a boat that fails to start, restart, or finish in accordance with the rules shall be scored Did Not Finish (DNF) without a hearing. If she fails to come to the starting area, she shall be scored Did Not Compete (DNC). :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "instruction": "Describe the sequence and meaning of signals for starting races under Rule 26.",
+    "input": "",
+    "output": "Races are started with a five-minute sequence: 5 minutes out, the class flag is raised (warning signal); 4 minutes, the preparatory flag (P, I, Z, U or black) is raised; 1 minute, the preparatory flag is removed (long sound); and at 0 minutes, the class flag is removed (starting signal). Times are taken from visual signals; the absence of a sound is disregarded. "
+  },
+  {
+    "instruction": "What actions may the race committee take under Rule 27 before the starting signal?",
+    "input": "",
+    "output": "Before the start, the committee may: (a) no later than the warning signal, signal or designate the course and require PFDs by displaying flag Y with one sound; (b) no later than the preparatory signal, move a starting mark; and (c) before the starting signal, postpone (AP, AP over H/A with two sounds) or abandon (N, N over H/A with three sounds) the race for any reason. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "instruction": "Explain Rule 28 on sailing the course and correcting errors.",
+    "input": "",
+    "output": "Rule 28.1 requires a boat to sail the course as signaled. Under Rule 28.2, she may correct any errors in sailing the course—such as missing a mark—provided she does so before finishing. :contentReference[oaicite:2]{index=2}"
+  }
+]

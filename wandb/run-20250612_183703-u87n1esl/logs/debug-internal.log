@@ -1,0 +1,17 @@
+{"time":"2025-06-12T18:37:03.839488-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/Users/jasondank/PycharmProjects/Flan-t5-sailing/wandb/run-20250612_183703-u87n1esl/logs/debug-core.log"}
+{"time":"2025-06-12T18:37:04.038588-04:00","level":"INFO","msg":"stream: created new stream","id":"u87n1esl"}
+{"time":"2025-06-12T18:37:04.03862-04:00","level":"INFO","msg":"stream: started","id":"u87n1esl"}
+{"time":"2025-06-12T18:37:04.03865-04:00","level":"INFO","msg":"handler: started","stream_id":"u87n1esl"}
+{"time":"2025-06-12T18:37:04.038659-04:00","level":"INFO","msg":"sender: started","stream_id":"u87n1esl"}
+{"time":"2025-06-12T18:37:04.038801-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"u87n1esl"}
+{"time":"2025-06-12T18:37:04.154914-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-12T18:59:19.30728-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-12T18:59:19.307939-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-12T18:59:19.632814-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-12T18:59:20.329559-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 159-160, summary, console lines 89-89","runtime_seconds":16.043715291}],"total_operations":1}}
+{"time":"2025-06-12T19:00:04.361969-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/dankj-jason-dank/sailing-rules-assistant/u87n1esl/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-06-12T19:00:06.834434-04:00","level":"INFO","msg":"stream: closing","id":"u87n1esl"}
+{"time":"2025-06-12T19:00:06.834471-04:00","level":"INFO","msg":"handler: closed","stream_id":"u87n1esl"}
+{"time":"2025-06-12T19:00:06.834488-04:00","level":"INFO","msg":"sender: closed","stream_id":"u87n1esl"}
+{"time":"2025-06-12T19:00:06.834672-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"u87n1esl"}
+{"time":"2025-06-12T19:00:06.834879-04:00","level":"INFO","msg":"stream: closed","id":"u87n1esl"}

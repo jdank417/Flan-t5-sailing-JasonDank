@@ -1,0 +1,12 @@
+{
+  "os":  "macOS-15.5-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.0",
+  "startedAt":  "2025-06-12T22:29:19.598379Z",
+  "program":  "/Users/jasondank/PycharmProjects/Flan-t5-sailing/test_logging.py",
+  "codePath":  "test_logging.py",
+  "email":  "dankj@wit.edu",
+  "root":  "/Users/jasondank/PycharmProjects/Flan-t5-sailing",
+  "host":  "Jasons-MacBook-Air.local",
+  "executable":  "/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/bin/python",
+  "codePathLocal":  "test_logging.py"
+}

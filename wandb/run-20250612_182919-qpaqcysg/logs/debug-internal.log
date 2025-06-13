@@ -1,0 +1,16 @@
+{"time":"2025-06-12T18:29:19.600266-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/Users/jasondank/PycharmProjects/Flan-t5-sailing/wandb/run-20250612_182919-qpaqcysg/logs/debug-core.log"}
+{"time":"2025-06-12T18:29:19.920219-04:00","level":"INFO","msg":"stream: created new stream","id":"qpaqcysg"}
+{"time":"2025-06-12T18:29:19.920262-04:00","level":"INFO","msg":"stream: started","id":"qpaqcysg"}
+{"time":"2025-06-12T18:29:19.920306-04:00","level":"INFO","msg":"handler: started","stream_id":"qpaqcysg"}
+{"time":"2025-06-12T18:29:19.920317-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"qpaqcysg"}
+{"time":"2025-06-12T18:29:19.920308-04:00","level":"INFO","msg":"sender: started","stream_id":"qpaqcysg"}
+{"time":"2025-06-12T18:29:20.09119-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-12T18:29:20.134401-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-12T18:29:20.134442-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-12T18:29:20.538282-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-12T18:29:20.750151-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-06-12T18:29:20.753491-04:00","level":"INFO","msg":"stream: closing","id":"qpaqcysg"}
+{"time":"2025-06-12T18:29:20.753509-04:00","level":"INFO","msg":"handler: closed","stream_id":"qpaqcysg"}
+{"time":"2025-06-12T18:29:20.753542-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"qpaqcysg"}
+{"time":"2025-06-12T18:29:20.753684-04:00","level":"INFO","msg":"sender: closed","stream_id":"qpaqcysg"}
+{"time":"2025-06-12T18:29:20.753698-04:00","level":"INFO","msg":"stream: closed","id":"qpaqcysg"}

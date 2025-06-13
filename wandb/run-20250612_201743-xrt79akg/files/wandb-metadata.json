@@ -1,0 +1,40 @@
+{
+  "os":  "macOS-15.5-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.0",
+  "startedAt":  "2025-06-13T00:17:44.718650Z",
+  "program":  "/Users/jasondank/PycharmProjects/Flan-t5-sailing/train.py",
+  "codePath":  "train.py",
+  "email":  "dankj@wit.edu",
+  "root":  "/Users/jasondank/PycharmProjects/Flan-t5-sailing",
+  "host":  "Jasons-MacBook-Air.local",
+  "executable":  "/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/bin/python",
+  "codePathLocal":  "train.py",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "228368293888"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "228368293888"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  10
+  },
+  "apple":  {
+    "name":  "Apple M4",
+    "ecpuCores":  6,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  16,
+    "swapTotalBytes":  "7516192768",
+    "ramTotalBytes":  "17179869184"
+  }
+}

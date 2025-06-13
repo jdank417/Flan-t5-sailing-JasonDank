@@ -1,0 +1,2 @@
+[34m[1mwandb[0m: [33mWARNING[0m The get_url method is deprecated and will be removed in a future release. Please use `run.url` instead.
+Test metrics logged to wandb. View at: https://wandb.ai/dankj-jason-dank/sailing-rules-assistant/runs/qpaqcysg

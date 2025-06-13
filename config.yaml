@@ -1,0 +1,40 @@
+# config.yaml
+model:
+  base_model: "google/flan-t5-large"  # Upgraded from base to large for better performance
+  lora_r: 32  # Increased from 16 to 32 for better model capacity
+  lora_alpha: 32
+  lora_dropout: 0.1
+
+training:
+  epochs: 15  # Increased from 10 to 15 for better learning
+  batch_size: 2  # Reduced from 8 to decrease memory usage
+  learning_rate: 2e-5  # Decreased from 5e-5 for more stable learning
+  warmup_ratio: 0.1  # Use ratio instead of steps
+  weight_decay: 0.05  # Increased from 0.01 for better regularization
+  gradient_accumulation_steps: 2  # Reduced from 4 to decrease memory usage
+  mixed_precision: "fp16"
+  max_input_length: 512
+  max_target_length: 256
+
+data:
+  train_test_split: 0
+  validation_split: 0
+  seed: 42
+
+paths:
+  json_data: "data/json"
+  processed_data: "data/processed"
+  save_model: "models/sailing_rules_assistant"
+  export_model: "models/exported"
+
+inference:
+  port: 7860
+  host: "0.0.0.0"
+
+logging:
+  use_wandb: true
+  wandb_project: "sailing-rules-assistant"
+  wandb_entity: null  # Set to your wandb username or team name, or leave as null
+  log_to_file: true
+  log_file: "training.log"
+  log_level: "INFO"

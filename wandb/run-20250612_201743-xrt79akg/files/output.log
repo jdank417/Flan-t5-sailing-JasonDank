@@ -1,0 +1,79 @@
+2025-06-12 20:17:45,261 - SailingRulesTrainer - INFO - Weights & Biases initialized. Project: sailing-rules-assistant, Run: flan-t5-32-epochs-15
+Weights & Biases initialized. Project: sailing-rules-assistant, Run: flan-t5-32-epochs-15
+[34m[1mwandb[0m: [33mWARNING[0m The get_url method is deprecated and will be removed in a future release. Please use `run.url` instead.
+Track your training at: https://wandb.ai/dankj-jason-dank/sailing-rules-assistant/runs/xrt79akg
+2025-06-12 20:17:45,261 - SailingRulesTrainer - INFO - Starting training preparation
+Map:   0%|                                                                                                                                                                                          | 0/323 [00:00<?, ? examples/s]/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/lib/python3.13/site-packages/transformers/tokenization_utils_base.py:3959: UserWarning: `as_target_tokenizer` is deprecated and will be removed in v5 of Transformers. You can tokenize your labels by using the argument `text_target` of the regular `__call__` method (either in the same call as your input texts if you use the same keyword arguments, or in a separate call.
+  warnings.warn(
+Map: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 323/323 [00:00<00:00, 4885.58 examples/s]
+2025-06-12 20:17:57,288 - SailingRulesTrainer - INFO - Using device: cpu
+2025-06-12 20:17:57,363 - SailingRulesTrainer - WARNING - Warning: fp16 mixed precision is not supported on this device. Training with fp32 instead.
+2025-06-12 20:17:57,364 - SailingRulesTrainer - INFO - Validation dataset is empty. Training without validation.
+/Users/jasondank/PycharmProjects/Flan-t5-sailing/models/trainer.py:253: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Seq2SeqTrainer.__init__`. Use `processing_class` instead.
+  trainer = Seq2SeqTrainer(**trainer_kwargs)
+You are adding a <class 'transformers.integrations.integration_utils.WandbCallback'> to the callbacks of this Trainer, but there is already one. The currentlist of callbacks is
+:DefaultFlowCallback
+WandbCallback
+No label_names provided for model class `PeftModelForSeq2SeqLM`. Since `PeftModel` hides base models input arguments, if label_names is not given, label_names can't be set automatically within `Trainer`. Note that empty label_names list will be used instead.
+2025-06-12 20:18:00,900 - SailingRulesTrainer - INFO - Starting training with 323 examples for 15 epochs
+
+==================================================
+TRAINING STARTED
+==================================================
+Training logs are being saved to: training.log
+Track training progress in real-time at: https://wandb.ai/dankj-jason-dank/sailing-rules-assistant/runs/xrt79akg
+You can safely close this terminal - training will continue in the background.
+==================================================
+[34m[1mwandb[0m: [33mWARNING[0m The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
+  0%|                                                                                                                                                                                                     | 0/1215 [00:00<?, ?it/s]/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:683: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+Passing a tuple of `past_key_values` is deprecated and will be removed in Transformers v4.48.0. You should pass an instance of `EncoderDecoderCache` instead, e.g. `past_key_values=EncoderDecoderCache.from_legacy_cache(past_key_values)`.
+  0%|▎                                                                                                                                                                                        | 2/1215 [05:30<54:12:13, 160.87s/it]Traceback (most recent call last):
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/train.py", line 45, in <module>
+    main()
+    ~~~~^^
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/train.py", line 40, in main
+    trainer.train()
+    ~~~~~~~~~~~~~^^
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/models/trainer.py", line 274, in train
+    trainer.train()
+    ~~~~~~~~~~~~~^^
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/lib/python3.13/site-packages/transformers/trainer.py", line 2240, in train
+    return inner_training_loop(
+        args=args,
+    ...<2 lines>...
+        ignore_keys_for_eval=ignore_keys_for_eval,
+    )
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/lib/python3.13/site-packages/transformers/trainer.py", line 2555, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/lib/python3.13/site-packages/transformers/trainer.py", line 3791, in training_step
+    self.accelerator.backward(loss, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/lib/python3.13/site-packages/accelerate/accelerator.py", line 2473, in backward
+    loss.backward(**kwargs)
+    ~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/lib/python3.13/site-packages/torch/_tensor.py", line 648, in backward
+    torch.autograd.backward(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        self, gradient, retain_graph, create_graph, inputs=inputs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/lib/python3.13/site-packages/torch/autograd/__init__.py", line 353, in backward
+    _engine_run_backward(
+    ~~~~~~~~~~~~~~~~~~~~^
+        tensors,
+        ^^^^^^^^
+    ...<5 lines>...
+        accumulate_grad=True,
+        ^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/jasondank/PycharmProjects/Flan-t5-sailing/.venv/lib/python3.13/site-packages/torch/autograd/graph.py", line 824, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        t_outputs, *args, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )  # Calls into the C++ engine to run the backward pass
+    ^
+KeyboardInterrupt

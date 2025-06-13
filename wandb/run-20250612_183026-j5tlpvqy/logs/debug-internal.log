@@ -1,0 +1,7 @@
+{"time":"2025-06-12T18:30:26.525559-04:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"/Users/jasondank/PycharmProjects/Flan-t5-sailing/wandb/run-20250612_183026-j5tlpvqy/logs/debug-core.log"}
+{"time":"2025-06-12T18:30:26.712197-04:00","level":"INFO","msg":"stream: created new stream","id":"j5tlpvqy"}
+{"time":"2025-06-12T18:30:26.712238-04:00","level":"INFO","msg":"stream: started","id":"j5tlpvqy"}
+{"time":"2025-06-12T18:30:26.712253-04:00","level":"INFO","msg":"sender: started","stream_id":"j5tlpvqy"}
+{"time":"2025-06-12T18:30:26.712264-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"j5tlpvqy"}
+{"time":"2025-06-12T18:30:26.712256-04:00","level":"INFO","msg":"handler: started","stream_id":"j5tlpvqy"}
+{"time":"2025-06-12T18:30:26.851878-04:00","level":"INFO","msg":"Starting system monitor"}
