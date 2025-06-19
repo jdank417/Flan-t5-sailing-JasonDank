@@ -115,6 +115,4 @@ You can modify the `config.yaml` file to adjust:
 - Paths for data and models
 - Logging settings (file logging, wandb integration)
 
-## License
 
-[Your license information here]
